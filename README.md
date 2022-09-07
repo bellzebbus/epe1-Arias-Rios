@@ -16,6 +16,10 @@ Primera evaluacion del ramo Desarrollo Web 2 año 2022
     * responsiva(?
     * noticias o anuncios en portada (no funcional)
     * portal apoderados y portal administracion 
+
+
+    Kanvan del proyecto:
+    https://trello.com/invite/b/IX64Vz48/5d1a4dee0b1ebcb574c334607c2ac376/epe-1
     
 
     
