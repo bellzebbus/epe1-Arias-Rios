@@ -15,7 +15,6 @@ Primera evaluacion del ramo Desarrollo Web 2 año 2022
 
     * responsiva(?
     * noticias o anuncios en portada (no funcional)
-    * portal apoderados y portal administracion (no funcional)
 
 
     Kanvan del proyecto:
