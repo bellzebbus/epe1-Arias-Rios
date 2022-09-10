@@ -1,0 +1,42 @@
+.footer {
+    left: 0;
+    bottom: 0;
+    min-width: 100%;
+    background-color: rgb(92, 92, 92);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.footer li {
+    background-color: transparent;
+    display: inline-flex;
+}
+
+.footer li u {
+    background-color: transparent;
+    font-size: 20px;
+}
+
+.footer li h1 {
+    text-align: center;
+}
+
+.footer li h1:hover {
+    color: #711313;
+}
+
+.footer li p {
+    font-size: 18px;
+    text-align: center;
+}
+
+.footer li p:hover {
+    color: #711313;
+}
+
+.footer object {
+    height: 20px;
+    width: 20px;
+}

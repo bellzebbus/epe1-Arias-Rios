@@ -1,0 +1,28 @@
+.catalogo {
+    padding: 10%;
+    position: static;
+    text-align: center;
+}
+
+.imgPrincipal {
+    max-width: 90%;
+    max-height: 500px;
+}
+
+.imgPrinConteiner {
+    background-color: red;
+    min-width: 60%;
+    height: 50%;
+    float: left;
+}
+
+.imgSecundaria {
+    width: 50%;
+    height: 50%;
+}
+
+.catalogo li {
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}

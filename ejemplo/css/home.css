@@ -1,0 +1,29 @@
+
+.bannerContenedor {
+    background-color: black;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.banner {
+    max-width: 720px;
+    background-color: red;
+}
+
+.galeria {
+    display: flex;
+    width: 100%;
+}
+
+.galeriaIMG {
+    max-width: 33%;
+    min-width: 100px;
+    object-fit: contain;
+    padding: 5px;
+}
+
+.galeriaIMG:hover {
+    background-color: #711313;
+    width: 50%;
+}

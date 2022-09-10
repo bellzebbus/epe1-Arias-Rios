@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+    font-size: 15px;
+    color: white;
+}
+
+body {
+    background-color: #bfa8a8;
+    opacity: 1;
+    background: radial-gradient(circle, transparent 20%, #bfa8a8 20%, #bfa8a8 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #bfa8a8 20%, #bfa8a8 80%, transparent 80%, transparent) 50px 50px, linear-gradient(#9b9b9b 4px, transparent 4px) 0 -2px, linear-gradient(90deg, #9b9b9b 4px, #bfa8a8 4px) -2px 0;
+    background-size: 100px 100px, 100px 100px, 50px 50px, 50px 50px;
+}
+
+h1 {
+    padding-top: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+article {
+    flex-direction: column;
+}
+
+li .abajo {
+    flex-direction: column;
+}
+
+
+/*  
+    html afuera√ 
+    css en carpeta√ 
+    rcs en carpeta√ 
+
+    hacer footer√
+    hacer contacto
+        nombre
+        telefono 8 digitos
+        asunto 10 lineas
+        motivo
+    arreglar nav bar active√     
+
+    paleta https://www.color-hex.com/color-palette/4863
+*/

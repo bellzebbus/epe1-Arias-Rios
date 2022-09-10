@@ -1,0 +1,47 @@
+
+
+❌⭕❓❗
+<!-- 
+    agregar catalogo⭕
+    agregar menu acordeon // no se como xuxa pero xD❓
+-->
+footer
+<!-- 
+    poner iconos de las redes sociales⭕
+-->
+nosotos
+<!-- 
+    imagen corporativa⭕
+    mision⭕
+    vision⭕
+    panel 2x2 iconos⭕
+    agregar area de fondo al texto para hacerlo mas legible ❗
+-->
+<!-- 
+    añadir footer⭕
+-->
+contacto
+<!-- 
+    agregar formulario⭕
+    nombre ⭕
+    telefono ⭕
+    correo ⭕
+    asunto ⭕
+-->
+catalogo
+<!-- 
+    3 categorias hover ❗❗
+    cada una con una imagen con un tag se abrira y
+    mostrara el listado de los productos
+    dentro del menu(el profe subio un documento con la explicacion 
+    " menu acordeon")
+
+    a ver se me ocurrio hacerlo de pana asimetrica
+
+    1 x 1(1 X 2)
+
+    https://webdesign.tutsplus.com/es/tutorials/create-a-css-grid-image-gallery-with-blur-effect-and-interaction-media-queries--cms-32287
+        
+    y aplicar esta wea pa que se vea de pana
+    ah y hay que añadir el header y el footer        
+-->

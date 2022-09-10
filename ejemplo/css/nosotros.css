@@ -1,0 +1,82 @@
+.nosotros {
+    padding: 10px;
+    position: static;
+    text-align: center;
+}
+
+.nosotros div {
+    padding: 5%;
+    display: flex;
+}
+
+.nosotros h1 u {
+    font-size: 3em;
+}
+
+.nosotros li {
+    justify-content: center;
+    text-align: center;
+    display: inline-flex;
+    float: none;
+}
+
+.nosotros div h2 {
+    padding-bottom: 10px;
+    font-size: 25px;
+    min-width: 40%;
+}
+
+.nosotros div p {
+    font-size: 20px;
+    color: #e8e8e7;
+}
+
+.imgCrop {
+    float: left;
+    background-color: red;
+    max-width: 40%;
+    min-width: 40%;
+    height: auto;
+}
+
+.icon {
+    margin: 0;
+    padding: 0;
+    width: 20%;
+}
+
+.grid2x2 {
+    min-height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.grid2x2 div {
+    display: flex;
+    flex-basis: calc(50% - 40px);
+    justify-content: center;
+    flex-direction: column;
+}
+
+.grid2x2 div .left {
+    display: flex;
+    justify-content: left;
+    flex-direction: row;
+}
+
+.grid2x2 div .right {
+    display: flex;
+    justify-content: right;
+    flex-direction: row;
+}
+
+.box {
+    margin: 20px;
+}
+
+
+/* 
+.tablaIconos td {
+    float: left;
+} */

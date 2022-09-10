@@ -1,0 +1,60 @@
+.formulario {
+    border: 5px;
+    border-style: dashed;
+    width: 90%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 2%;
+}
+
+input[type=text] {
+    color: black;
+    min-width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    color: black;
+    background-color: #711313;
+    min-width: 20%;
+    padding: 12px 20px;
+    margin-top: 5px;
+    margin-left: 40%;
+    margin-right: 40%;
+    font-size: 20px;
+}
+
+.enviar {
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.formConteiner {
+    display: flex;
+    width: 100%;
+}
+
+.formConteiner .formItem {
+    display: inline-flex;
+    width: 50%;
+    justify-content: center;
+}
+
+.formItem input[type=text] {
+    color: black;
+    max-width: 200vw;
+    min-width: 40vw;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+textarea {
+    width: 100%;
+    color: black;
+}
