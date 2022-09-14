@@ -111,21 +111,26 @@ li {
 /* lo visible de la cuestion noticias */
 
 .noticias {
-    max-width: 70%;
+    width: 65%;
+    height: 340px;
     background-color: #9e9898;
     padding: 0 5% 5% 5%;
     text-align: center;
     border-radius: 30px 0 30px 0;
+    z-index: 1;
+    position: relative;
 }
 
 .noticias h1 {
     background-color: #962b0f;
     width: 100%;
     border-radius: 0 0 30px 30px;
+    z-index: 1;
+    position: relative;
 }
 
 .noticias img {
-    width: 200px;
+    width: var(--imgSize);
 }
 
 .noticias ul {
@@ -133,19 +138,35 @@ li {
 }
 
 .tarjetaNoticia {
-    background-color: #ff9378;
+    background-color: #FF7278;
     width: 220px;
-    height: 240px;
+    height: 220px;
     padding-top: 10px;
     padding-bottom: 40px;
+    margin-top: 100px;
+    overflow: hidden;
     text-overflow: ellipsis;
+    z-index: 1;
+    position: relative;
+    margin: 2px;
+    --imgSize: 200px;
+}
+
+.tarjetaNoticia:hover {
+    position: relative;
+    background-color: #C44B53;
+    overflow: visible;
+    padding: 20px;
+    z-index: 2;
+    width: 260px;
+    height: fit-content;
+    border-radius: 30px 0 30px 0;
+    --imgSize: 250px;
 }
 
 p {
     width: auto;
     height: 40px;
-    background-color: red;
-    text-overflow: ellipsis;
 }
 
 
@@ -157,23 +178,51 @@ p {
 }
 
 .galeria {
-    max-width: 70%;
+    width: 65%;
+    height: 240px;
     background-color: #9e9898;
     padding: 0 5% 5% 5%;
     text-align: center;
     border-radius: 30px 0 30px 0;
+    z-index: 1;
+    position: relative;
 }
 
 .galeria h1 {
     background-color: #e3a444;
     width: 100%;
     border-radius: 0 0 30px 30px;
+    margin-bottom: 2%;
 }
 
 .galeria img {
-    width: 220px;
+    width: var(--imgSize);
 }
 
 .galeria ul {
     display: inline-flex;
+}
+
+.tarjetaGaleria {
+    background-color: #FF7278;
+    width: fit-content;
+    padding: 10px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    z-index: 1;
+    position: relative;
+    margin: 2px;
+    --imgSize: 200px;
+}
+
+.tarjetaGaleria:hover {
+    position: relative;
+    background-color: #C44B53;
+    overflow: visible;
+    padding: 20px;
+    z-index: 2;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 30px 0 30px 0;
+    --imgSize: 300px;
 }
