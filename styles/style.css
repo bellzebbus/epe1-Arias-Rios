@@ -1,6 +1,9 @@
 .BannerFeo{
-text-align: center;
+    display: flex;
+    justify-content: center;
 }
+
+.BannerFeo
 /*
 el secreto de estado :0! centre un DIV
 */
