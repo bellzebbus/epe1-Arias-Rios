@@ -7,6 +7,10 @@ body {
     background-color: #dcd3d3;
 }
 
+li {
+    list-style-type: none;
+}
+
 
 /*
     acuerdate de crear tu rama y subir los cambios ahi antes de tirarlos al main

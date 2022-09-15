@@ -204,7 +204,7 @@ p {
 }
 
 .tarjetaGaleria {
-    background-color: #FF7278;
+    background-color: #ECFFA6;
     width: fit-content;
     padding: 10px;
     overflow: hidden;
@@ -217,7 +217,7 @@ p {
 
 .tarjetaGaleria:hover {
     position: relative;
-    background-color: #C44B53;
+    background-color: #ffc44c;
     overflow: visible;
     padding: 20px;
     z-index: 2;
