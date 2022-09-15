@@ -64,5 +64,8 @@ Primera evaluacion del ramo Desarrollo Web 2 año 2022
             esta carpeta contiene el mockup inicial de la pagina el cual estuvo sujeto a cambios debido a los margenes de contenidos de la clase (desarrollo web 2) a los cuales nos tratamos de apegar lo mas posible
 
 
+    PD: profe no puse todas las imagenes de la pagina de comunidad porque el proyecto pesaria muchisimo y aparte que no es necesario
+        hice 2 categorias nomas, añadir 
+
       
     
