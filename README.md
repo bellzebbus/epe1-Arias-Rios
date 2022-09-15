@@ -2,6 +2,10 @@
 Primera evaluacion del ramo Desarrollo Web 2 año 2022
 
 
+    AVISOS:
+        la web cuenta con componentes responsivos. por lo cual si su pantalla es menor a 1920*1080p podrian verse afectados
+        solicito por favor utilizar esa resolucion para el correcto funcionamiento de esta web
+
     Descripcion del proyecto:
 
     el proyecto tiene como finalidad remodelar y/o modernizar la pagina web del colegio los olmos
@@ -26,9 +30,7 @@ Primera evaluacion del ramo Desarrollo Web 2 año 2022
 
         Styles:
             esta carpeta contiene los estilos del proyecto. utilizamos un sistema modular de estilos para que el flujo de trabajo entre 2 personas fuera mas comodo, ademas de simplificar los pull request de multiples branchs de git.
-            dentro de INICIO.CSS hay una explicacion de los estilos mas utilizados.
-            dentro de RECURSOS.CSS hay una explicacion de la utilizacion de css grid
-                        
+
             Estilos especificos:
                 Admision:   contiene los estilos necesarios para la pagina de admision
                 comunidad:  contiene los estilos necesarios para la pagina de comunidad
