@@ -1,0 +1,15 @@
+.Admision li{
+    text-align: left;
+    margin: 5px;
+    text-align: left;
+}
+.Admision h2{
+    background-color: #22745a;
+    width: 100%;
+    border-radius: 0 0 30px 30px;
+}
+
+.MaterialApoyo iframe{
+    float: left;
+}
+
