@@ -21,6 +21,8 @@
     padding: 15px;
     text-align: left;
     display: flex;
+    background-color: #22745a;
+    border-radius: 0 0 30px 30px;
 }
 
 .Vision li{
@@ -35,6 +37,8 @@
     padding: 15px;
     text-align: left;
     display: flex;
+    background-color: #22745a;
+    border-radius: 0 0 30px 30px;
 }
 
 
@@ -48,4 +52,10 @@
     width: 500px;
     height: 500px;
     float: left;
+}
+
+
+.Sello h1{
+    background-color: #bc3512;
+    border-radius: 0 0 30px 30px;
 }
