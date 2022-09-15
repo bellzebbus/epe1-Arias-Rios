@@ -112,7 +112,7 @@ li {
 
 .noticias {
     width: 65%;
-    height: 340px;
+    height: fit-content;
     background-color: #9e9898;
     padding: 0 5% 5% 5%;
     text-align: center;
@@ -179,7 +179,7 @@ p {
 
 .galeria {
     width: 65%;
-    height: 240px;
+    height: fit-content;
     background-color: #9e9898;
     padding: 0 5% 5% 5%;
     text-align: center;
