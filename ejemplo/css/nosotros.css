@@ -16,7 +16,6 @@
 .nosotros li {
     justify-content: center;
     text-align: center;
-    display: inline-flex;
     float: none;
 }
 
@@ -32,7 +31,6 @@
 }
 
 .imgCrop {
-    float: left;
     background-color: red;
     max-width: 40%;
     min-width: 40%;
