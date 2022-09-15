@@ -41,11 +41,11 @@ Primera evaluacion del ramo Desarrollo Web 2 año 2022
             Estilos Generales:
                 banner:     contiene los estilos para el banner, este se utiliza en todas las paginas que deseen
                             mostrar el baner(ademas del codigo html del mismo)
-                 footer:    contiene los estilos para el footer, este se utiliza en todas las paginas que deseen
+                footer:    contiene los estilos para el footer, este se utiliza en todas las paginas que deseen
                             mostrar el footer(ademas del codigo html del mismo)
                 nav:        contiene los estilos para el nav, este se utiliza en todas las paginas que deseen
                             mostrar el nav(ademas del codigo html del mismo)
-                 style:     contiene los estilos para el style, este se utiliza en todas las paginas que deseen
+                style:     contiene los estilos para el style, este se utiliza en todas las paginas que deseen
                             mostrar el banstyleer(ademas del codigo html del mismo)
 
         Resources:
@@ -65,7 +65,8 @@ Primera evaluacion del ramo Desarrollo Web 2 año 2022
 
 
     PD: profe no puse todas las imagenes de la pagina de comunidad porque el proyecto pesaria muchisimo y aparte que no es necesario
-        hice 2 categorias nomas, añadir 
+        hice 2 categorias nomas, añadir.
 
+        algunos videos no se pueden visualizar dentro de la web porque tiene derechos de autor.
       
     
